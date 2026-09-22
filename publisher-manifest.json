@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "29a334118cbd2571da8813c0",
+  "owner": "bgesc8n",
+  "repo": "page-d07a261409837743ce3d9add",
+  "title": "B计划猫",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "d07a261409837743ce3d9add",
+      "a": "B计划猫",
+      "b": "机场官网线路发布页",
+      "entity": "B计划猫",
+      "brand": "B计划猫",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "3e31a60e94296bb2976c21e6a23480825cb2e489befa614f21bfdba5c887ee56",
+      "content": {
+        "primary_entity": "B计划猫",
+        "keyword1": "B计划猫",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_CLIENTS_INTRO": "不同设备选择对应客户端：Windows 可选 Clash Verge、v2rayN；macOS 可选 ClashX、Stash；iOS 可选 Shadowrocket、Quantumult X；Android 可选 Clash Meta、Surfboard。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "从基础版到团队版，按设备数量和流量需求挑选，再依照对应客户端文档配置订阅即可。",
+          "AI_CLOSING_TITLE": "选好套餐，按文档配置订阅",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版、团队版三档订阅，分别对应每月100GB、300GB、1000GB流量与3台、5台、20台设备。旗舰版带IPLC专线游戏加速与7x24优先工单，团队版含VIP高带宽节点与专属客户经理。客户端按Windows、macOS、iOS、Android分别选择，导入订阅链接后即可使用。",
+          "AI_FAQ_ANSWER_1": "基础版每月100GB流量、3台设备在线，适合轻度浏览与基础流媒体；旗舰版每月300GB、5台设备，含IPLC专线游戏加速；团队版每月1000GB、20台设备，适合多设备协作。可按在线设备数和月流量估算。",
+          "AI_FAQ_ANSWER_2": "支持多设备各自导入订阅。基础版限制3台同时在线，旗舰版5台，团队版20台。切换设备时先断开旧设备连接，避免同时在线数超限。",
+          "AI_FAQ_ANSWER_3": "各客户端在首次导入订阅后按文档自行下载配置。Windows 用 Clash Verge 或 v2rayN，macOS 用 ClashX 或 Stash，iOS 用 Shadowrocket 等，Android 用 Clash Meta 等，具体以客户端文档为准。",
+          "AI_FAQ_ANSWER_4": "月付适合短期试用，¥15、¥35、¥85每月；年付更划算，基础版¥150/年、旗舰版¥350/年、团队版¥850/年。若长期使用，年付可省下约两个月费用。",
+          "AI_FAQ_ANSWER_5": "进入所选套餐的订阅页面，复制订阅链接，粘贴到对应客户端的订阅导入框并更新。若有多个客户端，可分别导入同一订阅链接，再按文档调整分流规则。",
+          "AI_FAQ_INTRO": "套餐对比、设备限制与订阅配置。",
+          "AI_FAQ_QUESTION_1": "基础版、旗舰版和团队版怎么选？",
+          "AI_FAQ_QUESTION_2": "一个账号能同时在几台设备上使用？",
+          "AI_FAQ_QUESTION_3": "不同设备需要分别下载客户端吗？",
+          "AI_FAQ_QUESTION_4": "月付和年付价格差多少？",
+          "AI_FAQ_QUESTION_5": "如何把订阅链接导入客户端？",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FEATURES_INTRO": "从流量、设备数和专线优化三个角度对比套餐，再按设备类型选择客户端完成订阅配置。",
+          "AI_FEATURES_TITLE": "套餐选择的三项参考",
+          "AI_FEATURE_TEXT_1": "基础版每月100GB/3台设备，旗舰版300GB/5台设备，团队版1000GB/20台设备，按同时在线数估算更稳妥。",
+          "AI_FEATURE_TEXT_2": "旗舰版含IPLC专线游戏加速优化，团队版有VIP专属高带宽节点，普通浏览选基础版即可。",
+          "AI_FEATURE_TEXT_3": "年付比月付省约两个月费用，旗舰版和团队版还附带优先工单或专属客户经理支持。",
+          "AI_FEATURE_TITLE_1": "按流量与设备选档",
+          "AI_FEATURE_TITLE_2": "看专线与节点权益",
+          "AI_FEATURE_TITLE_3": "按月付或年付周期",
+          "AI_GUIDE_INTRO": "先确定套餐档位，再看常用设备的适配要求，最后依客户端文档导入订阅。",
+          "AI_GUIDE_TITLE": "订阅配置三步走",
+          "AI_HERO_INTRO": "B计划猫提供基础版、旗舰版、团队版三档海外加速订阅，流量从每月100GB到1000GB，设备数从3台到20台，旗舰版带IPLC专线游戏加速优化。按设备类型选择对应客户端并导入订阅即可使用。",
+          "AI_HERO_SUBTITLE": "三档套餐按需挑选",
+          "AI_HIGHLIGHT_1": "套餐从 ¥15/月 起",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线",
+          "AI_HIGHLIGHT_3": "年付省约两月费用",
+          "AI_PLANS_INTRO": "基础版 ¥15/月或 ¥150/年，旗舰版 ¥35/月或 ¥350/年，团队版 ¥85/月或 ¥850/年，按流量与设备数对比选择。",
+          "AI_PLANS_TITLE": "三档套餐对比",
+          "AI_STEP_TEXT_1": "先根据常用设备的在线数量和每日流量，在基础版、旗舰版、团队版中选一档，再决定月付或年付。",
+          "AI_STEP_TEXT_2": "查看所选客户端的系统要求与适配说明，Windows、macOS、iOS、Android 使用的客户端各不相同。",
+          "AI_STEP_TEXT_3": "按对应客户端的订阅导入文档操作，粘贴订阅链接并更新，即可完成配置开始使用。",
+          "AI_STEP_TITLE_1": "选择服务档位",
+          "AI_STEP_TITLE_2": "查看设备适配要求",
+          "AI_STEP_TITLE_3": "依客户端文档配置订阅",
+          "AI_VISUAL_TITLE": "B计划猫｜套餐与订阅"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "qyunnet.cn",
+    "host": "qyunnet.cn"
+  },
+  "file_hashes": {
+    "index.html": "aae65b6d2bf2e2e64b7ded2545cc5f780eb237fe34ed52b20f2e420439ee6471",
+    "sitemap.xml": "7478f97cb129c62fa273831ed85dee5c35d5faf7eb6c8fa1dd0b8701ace5dec3",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "56148527fbfd6d7373d5958b9953b689138691acbb6f33a0d2dcdc3b60385d9c",
+    "robots.txt": "7bf8f83376efc817ccda338e83e20a47b2f501f890d65d83f66917d6116b35d7",
+    "bb86dfdfd3bada5d3c4bb36e7d8500e3.txt": "29e9cc1bf81b0c339b30f874371423a3355def4db1b9703560833aaef417f2d0"
+  },
+  "revision": "843e97997cb399cf43c7bcd8093d624ac72620a464cedb701bd88373c6fe7694"
+}
